@@ -313,7 +313,7 @@ GameObject:
   - component: {fileID: 1066602178}
   - component: {fileID: 1066602177}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: LightHills
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
