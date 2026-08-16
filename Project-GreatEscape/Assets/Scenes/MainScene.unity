@@ -3133,6 +3133,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.size
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8553246645465054629, guid: 46c2be10d00795d478fceeb64067f8a3, type: 3}
+      propertyPath: m_SelectedEditorRenderState
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46c2be10d00795d478fceeb64067f8a3, type: 3}
 --- !u!1 &1723518295
@@ -3586,7 +3590,7 @@ PrefabInstance:
       objectReference: {fileID: -646419608224802155, guid: 37291e5548d5e9549b065741ad4cc19e, type: 3}
     - target: {fileID: 5002981841048859435, guid: 37291e5548d5e9549b065741ad4cc19e, type: 3}
       propertyPath: m_SelectedEditorRenderState
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5348911521205032285, guid: 37291e5548d5e9549b065741ad4cc19e, type: 3}
       propertyPath: m_Name
